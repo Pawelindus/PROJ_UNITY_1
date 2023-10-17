@@ -1,0 +1,1937 @@
+fileFormatVersion: 2
+guid: 8f0012ad776d0824cbd2eb32099a686c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6249428889653556169
+    second: Tekst_0
+  - first:
+      213: -5950084068361872317
+    second: Tekst_1
+  - first:
+      213: -7373141922173651563
+    second: Tekst_2
+  - first:
+      213: 8805812210471583543
+    second: Tekst_3
+  - first:
+      213: 5747613552842783624
+    second: Tekst_4
+  - first:
+      213: 8348612893306854501
+    second: Tekst_5
+  - first:
+      213: -7846361087667567665
+    second: Tekst_6
+  - first:
+      213: 5682943719096749571
+    second: Tekst_7
+  - first:
+      213: -874435731920217649
+    second: Tekst_8
+  - first:
+      213: 6484126247014467285
+    second: Tekst_9
+  - first:
+      213: 5695169600471571682
+    second: Tekst_10
+  - first:
+      213: 468420649183561032
+    second: Tekst_11
+  - first:
+      213: -3502430447610827110
+    second: Tekst_12
+  - first:
+      213: 5868351343558892017
+    second: Tekst_13
+  - first:
+      213: -3789083803075491350
+    second: Tekst_14
+  - first:
+      213: 3833857991418390262
+    second: Tekst_15
+  - first:
+      213: 8499217829009665099
+    second: Tekst_16
+  - first:
+      213: 192943667889160364
+    second: Tekst_17
+  - first:
+      213: -4867430779163460797
+    second: Tekst_18
+  - first:
+      213: -2070729498949694175
+    second: Tekst_19
+  - first:
+      213: 2907433384728447053
+    second: Tekst_20
+  - first:
+      213: -8022462939797280825
+    second: Tekst_21
+  - first:
+      213: -7905346017609771599
+    second: Tekst_22
+  - first:
+      213: 4796945907647148702
+    second: Tekst_23
+  - first:
+      213: -693183380183057498
+    second: Tekst_24
+  - first:
+      213: -5419305655304741463
+    second: Tekst_25
+  - first:
+      213: -2109358164765528144
+    second: Tekst_26
+  - first:
+      213: 1830900347541092651
+    second: Tekst_27
+  - first:
+      213: 5548452356511483135
+    second: Tekst_28
+  - first:
+      213: 8783123879703127940
+    second: Tekst_29
+  - first:
+      213: 522886069064898343
+    second: Tekst_30
+  - first:
+      213: -6149754224207809251
+    second: Tekst_31
+  - first:
+      213: -3825451751344302749
+    second: Tekst_32
+  - first:
+      213: -1715289804831390662
+    second: Tekst_33
+  - first:
+      213: -6585307680222715344
+    second: Tekst_34
+  - first:
+      213: 9074193336414501169
+    second: Tekst_35
+  - first:
+      213: 4509042666732910259
+    second: Tekst_36
+  - first:
+      213: 7769550729798640687
+    second: Tekst_37
+  - first:
+      213: -5076997341362295271
+    second: Tekst_38
+  - first:
+      213: 8672171023855502685
+    second: Tekst_39
+  - first:
+      213: -5395909238718713422
+    second: Tekst_40
+  - first:
+      213: -5743397364497265590
+    second: Tekst_41
+  - first:
+      213: -5913831637964206070
+    second: Tekst_42
+  - first:
+      213: 1819959910485231225
+    second: Tekst_43
+  - first:
+      213: 7787781123737980799
+    second: Tekst_44
+  - first:
+      213: 6545668340176689744
+    second: Tekst_45
+  - first:
+      213: 8461009008809339916
+    second: Tekst_46
+  - first:
+      213: -828983617512862431
+    second: Tekst_47
+  - first:
+      213: 710301884490403847
+    second: Tekst_48
+  - first:
+      213: -6194298248678821118
+    second: Tekst_49
+  - first:
+      213: 3007067885791605014
+    second: Tekst_50
+  - first:
+      213: -6152606340209561904
+    second: Tekst_51
+  - first:
+      213: 4652248121086142902
+    second: Tekst_52
+  - first:
+      213: 3109932781306393442
+    second: Tekst_53
+  - first:
+      213: 4382245595452949977
+    second: Tekst_54
+  - first:
+      213: 3216646528253952420
+    second: Tekst_55
+  - first:
+      213: -7985612090812126891
+    second: Tekst_56
+  - first:
+      213: -4893052834668587045
+    second: Tekst_57
+  - first:
+      213: 7681298119004623292
+    second: Tekst_58
+  - first:
+      213: -7642216489323149455
+    second: Tekst_59
+  - first:
+      213: 1430525941659413142
+    second: Tekst_60
+  - first:
+      213: 2080639961766087605
+    second: Tekst_61
+  - first:
+      213: -7859842051246846796
+    second: Tekst_62
+  - first:
+      213: 6097256422722050269
+    second: Tekst_63
+  - first:
+      213: 3844311059450385385
+    second: Tekst_64
+  - first:
+      213: -8704032340610478359
+    second: Tekst_65
+  - first:
+      213: -6891450355438416541
+    second: Tekst_66
+  - first:
+      213: 2148047142071142510
+    second: Tekst_67
+  - first:
+      213: 7501905028182657872
+    second: Tekst_68
+  - first:
+      213: 4511796300068462386
+    second: Tekst_69
+  - first:
+      213: 1667280860577277025
+    second: Tekst_70
+  - first:
+      213: 1965485914344898523
+    second: Tekst_71
+  - first:
+      213: 6481567922538536451
+    second: Tekst_72
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tekst_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 308
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c33dd8d67e6ab650800000000000000
+      internalID: 6249428889653556169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 308
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c5491901e0d6da0800000000000000
+      internalID: -5950084068361872317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 336
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957c428c765da990800000000000000
+      internalID: -7373141922173651563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 308
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fb4fbdc87843a70800000000000000
+      internalID: 8805812210471583543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 308
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3a6bf210a3cf40800000000000000
+      internalID: 5747613552842783624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_5
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 308
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c1dc0913b3cd370800000000000000
+      internalID: 8348612893306854501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3802e99202c1390800000000000000
+      internalID: -7846361087667567665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 308
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e8c47f33fddde40800000000000000
+      internalID: 5682943719096749571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 308
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc99cf3b5516dd3f0800000000000000
+      internalID: -874435731920217649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 308
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d68510a77e3cf950800000000000000
+      internalID: 6484126247014467285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 308
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec16bbc39e490f40800000000000000
+      internalID: 5695169600471571682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 308
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8454b00491a208600800000000000000
+      internalID: 468420649183561032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 308
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ee4a7801ed46fc0800000000000000
+      internalID: -3502430447610827110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 308
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f993028472907150800000000000000
+      internalID: 5868351343558892017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_14
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 308
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9cf754b587a6bc0800000000000000
+      internalID: -3789083803075491350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 308
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f629c1d789943530800000000000000
+      internalID: 3833857991418390262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 247
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ca9cea59943f570800000000000000
+      internalID: 8499217829009665099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 275
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0c1326e397da200800000000000000
+      internalID: 192943667889160364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 247
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bb82fbe79637cb0800000000000000
+      internalID: -4867430779163460797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 275
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4e2ded7a4343e0800000000000000
+      internalID: -2070729498949694175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_20
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 247
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48c9d85247495820800000000000000
+      internalID: 2907433384728447053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 247
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7a5a9067c7aa090800000000000000
+      internalID: -8022462939797280825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 275
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b512d96ea19a4290800000000000000
+      internalID: -7905346017609771599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 247
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92721043ec229240800000000000000
+      internalID: 4796945907647148702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 236
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abfbfb63615166f0800000000000000
+      internalID: -693183380183057498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 247
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad9b4e1832cac4b0800000000000000
+      internalID: -5419305655304741463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 247
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfa41dcced0ab2e0800000000000000
+      internalID: -2109358164765528144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 247
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2973526a2aa86910800000000000000
+      internalID: 1830900347541092651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_28
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 247
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4cb037500100d40800000000000000
+      internalID: 5548452356511483135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 247
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a4f332ace3e970800000000000000
+      internalID: 8783123879703127940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 247
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271d940c1aa14700800000000000000
+      internalID: 522886069064898343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 186
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15b22aad1fa7aaa0800000000000000
+      internalID: -6149754224207809251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 186
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3651ab776e349eac0800000000000000
+      internalID: -3825451751344302749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_33
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 186
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340d20b2011238e0800000000000000
+      internalID: -1715289804831390662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_34
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 186
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0326ca72e894c94a0800000000000000
+      internalID: -6585307680222715344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_35
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 186
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139f33823c20eed70800000000000000
+      internalID: 9074193336414501169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 186
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6f1bb5a66539e30800000000000000
+      internalID: 4509042666732910259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_37
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 174
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246602593df2db60800000000000000
+      internalID: 7769550729798640687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_38
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 126
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e6f7e21d1ea89b0800000000000000
+      internalID: -5076997341362295271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 126
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55c75c599db95870800000000000000
+      internalID: 8672171023855502685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 153
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b13ce9d221ed15b0800000000000000
+      internalID: -5395909238718713422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 126
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc93dd68a5b40b0800000000000000
+      internalID: -5743397364497265590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 126
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a005da54579ddeda0800000000000000
+      internalID: -5913831637964206070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_43
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768ce165ebc14910800000000000000
+      internalID: 1819959910485231225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 126
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f05ecaba1c31c60800000000000000
+      internalID: 7787781123737980799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_45
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 61
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a90c9cca2e6da50800000000000000
+      internalID: 6545668340176689744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 126
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ce57b7dda8b6570800000000000000
+      internalID: 8461009008809339916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 126
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d0781cacbde74f0800000000000000
+      internalID: -828983617512862431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 126
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7005754fccf7bd900800000000000000
+      internalID: 710301884490403847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 126
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203bca6cf8e690aa0800000000000000
+      internalID: -6194298248678821118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 126
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f71c5f404bb920800000000000000
+      internalID: 3007067885791605014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_51
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 114
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de2ef8a12d8d9aa0800000000000000
+      internalID: -6152606340209561904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_52
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 117
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b96158740b109040800000000000000
+      internalID: 4652248121086142902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_53
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 126
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2633c113363b82b20800000000000000
+      internalID: 3109932781306393442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_54
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d54e73a62dd0dc30800000000000000
+      internalID: 4382245595452949977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1029499f2d3ac20800000000000000
+      internalID: 3216646528253952420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 92
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559241dec186d2190800000000000000
+      internalID: -7985612090812126891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_57
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 92
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd75c521f52681cb0800000000000000
+      internalID: -4893052834668587045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_58
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 75
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1952521f3799a60800000000000000
+      internalID: 7681298119004623292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_59
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 64
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177c249d79461f590800000000000000
+      internalID: -7642216489323149455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_60
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a2792c3cf3ad310800000000000000
+      internalID: 1430525941659413142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcc82850befdc10800000000000000
+      internalID: 2080639961766087605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_62
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc01c03c4b3ce290800000000000000
+      internalID: -7859842051246846796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_63
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 64
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd811dc696ecd9450800000000000000
+      internalID: 6097256422722050269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e355a06a8cb95530800000000000000
+      internalID: 3844311059450385385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 64
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee8660c3b0153780800000000000000
+      internalID: -8704032340610478359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_66
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 53
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8ad80a66ac50a0800000000000000
+      internalID: -6891450355438416541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_67
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 64
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6881ffae756fcd10800000000000000
+      internalID: 2148047142071142510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_68
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 64
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b4b8750ee1c1860800000000000000
+      internalID: 7501905028182657872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_69
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 64
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f908494de1d9e30800000000000000
+      internalID: 4511796300068462386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 64
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164248beb1f532710800000000000000
+      internalID: 1667280860577277025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_71
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfbf87860fc64b10800000000000000
+      internalID: 1965485914344898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tekst_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 64
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ed97a4fa723f950800000000000000
+      internalID: 6481567922538536451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tekst_0: 6249428889653556169
+      Tekst_1: -5950084068361872317
+      Tekst_10: 5695169600471571682
+      Tekst_11: 468420649183561032
+      Tekst_12: -3502430447610827110
+      Tekst_13: 5868351343558892017
+      Tekst_14: -3789083803075491350
+      Tekst_15: 3833857991418390262
+      Tekst_16: 8499217829009665099
+      Tekst_17: 192943667889160364
+      Tekst_18: -4867430779163460797
+      Tekst_19: -2070729498949694175
+      Tekst_2: -7373141922173651563
+      Tekst_20: 2907433384728447053
+      Tekst_21: -8022462939797280825
+      Tekst_22: -7905346017609771599
+      Tekst_23: 4796945907647148702
+      Tekst_24: -693183380183057498
+      Tekst_25: -5419305655304741463
+      Tekst_26: -2109358164765528144
+      Tekst_27: 1830900347541092651
+      Tekst_28: 5548452356511483135
+      Tekst_29: 8783123879703127940
+      Tekst_3: 8805812210471583543
+      Tekst_30: 522886069064898343
+      Tekst_31: -6149754224207809251
+      Tekst_32: -3825451751344302749
+      Tekst_33: -1715289804831390662
+      Tekst_34: -6585307680222715344
+      Tekst_35: 9074193336414501169
+      Tekst_36: 4509042666732910259
+      Tekst_37: 7769550729798640687
+      Tekst_38: -5076997341362295271
+      Tekst_39: 8672171023855502685
+      Tekst_4: 5747613552842783624
+      Tekst_40: -5395909238718713422
+      Tekst_41: -5743397364497265590
+      Tekst_42: -5913831637964206070
+      Tekst_43: 1819959910485231225
+      Tekst_44: 7787781123737980799
+      Tekst_45: 6545668340176689744
+      Tekst_46: 8461009008809339916
+      Tekst_47: -828983617512862431
+      Tekst_48: 710301884490403847
+      Tekst_49: -6194298248678821118
+      Tekst_5: 8348612893306854501
+      Tekst_50: 3007067885791605014
+      Tekst_51: -6152606340209561904
+      Tekst_52: 4652248121086142902
+      Tekst_53: 3109932781306393442
+      Tekst_54: 4382245595452949977
+      Tekst_55: 3216646528253952420
+      Tekst_56: -7985612090812126891
+      Tekst_57: -4893052834668587045
+      Tekst_58: 7681298119004623292
+      Tekst_59: -7642216489323149455
+      Tekst_6: -7846361087667567665
+      Tekst_60: 1430525941659413142
+      Tekst_61: 2080639961766087605
+      Tekst_62: -7859842051246846796
+      Tekst_63: 6097256422722050269
+      Tekst_64: 3844311059450385385
+      Tekst_65: -8704032340610478359
+      Tekst_66: -6891450355438416541
+      Tekst_67: 2148047142071142510
+      Tekst_68: 7501905028182657872
+      Tekst_69: 4511796300068462386
+      Tekst_7: 5682943719096749571
+      Tekst_70: 1667280860577277025
+      Tekst_71: 1965485914344898523
+      Tekst_72: 6481567922538536451
+      Tekst_8: -874435731920217649
+      Tekst_9: 6484126247014467285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
